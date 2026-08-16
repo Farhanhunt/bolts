@@ -2,6 +2,10 @@
 
 A simple, extendable, QR-code-ready protocol for requesting payments
 over Lightning.
+example:
+simbol_current:"SATS",
+Amount:"1000000",
+speed_wallet:"farhanhan@speed.app"
 
 # Table of Contents
 
